@@ -1,0 +1,28 @@
+
+<table  class="table table-hover table-sm" >
+   
+    <thead class="thead-light">  
+        <tr>  
+    
+            <th>NAME</th>  
+            <th>ADDRESS</th> 
+            <th>CITY</th> 
+            <th>PACKAGE</th>
+            <th> TRAINER PREFERENCE</th>
+            <th>PHONE</th>
+            
+              
+        </tr>  
+    </thead>  
+    <tbody>  
+         <tr *ngFor="let  list of user ">  
+            <td>{{list.firstname}}</td>  
+            <td>{{list.address}}</td>  
+            <td>{{list.city}}</td>  
+            <td>{{list.packageeee}}</td>
+            <td>{{list.trainerPreference}}</td>
+            <td>{{list.phone}}</td>
+            
+            </tr>
+        </tbody>
+        </table>

@@ -1,0 +1,52 @@
+{
+  "Fitness": [
+    {
+      "id": 1,
+      "firstname": "suvarsha",
+      "address": "1223",
+      "city": "hyd",
+      "packageeee": "one time",
+      "trainerPreference": "male trainer",
+      "phone": "456789789"
+    },
+    {
+      "id": 2,
+      "firstname": "harshini",
+      "address": "122344",
+      "city": "hyd",
+      "packageeee": "one time",
+      "trainerPreference": "male trainer",
+      "phone": "456789789"
+    },
+    {
+      "id": 5,
+      "firstname": "ramya",
+      "address": "122344",
+      "city": "hyd",
+      "packageeee": "one time",
+      "trainerPreference": "male trainer",
+      "phone": "456789789"
+    },
+    {
+      "firstname": "rohini",
+      "lastname": "",
+      "age": "",
+      "email": "",
+      "phone": "34567898",
+      "streetaddress": "",
+      "city": "",
+      "state": "",
+      "country": "",
+      "id": 6
+    },
+    {
+      "id": 5,
+      "firstname": "tabuu",
+      "address": "122344",
+      "city": "hyd",
+      "packageeee": "one time",
+      "trainerPreference": "male trainer",
+      "phone": "456789789"
+    }
+  ]
+}
